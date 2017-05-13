@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EncryptedFileHeader>
+  <Algorithm>nazwa algorytmu</Algorithm>
+  <CipherMode>tryb pracy</CipherMode>
+  <BlockSize>rozmiar bloku</BlockSize>
+  <FeedbackSize>rozmiar podbloku</FeedbackSize>
+  <KeySize>rozmiar klucza</KeySize>
+  <EncryptedKey>klucz zaszyfrowany skrótem hasła</EncryptedKey>
+  <IV>wektor początkowy</IV>
+</EncryptedFileHeader>
